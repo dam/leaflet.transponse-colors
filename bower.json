@@ -1,0 +1,20 @@
+{
+  "name": "leaflet.transpose-colors",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dam/leaflet.transponse-colors",
+  "authors": [
+    "Damien Imberdis <imberdis.damien@gmail.com>"
+  ],
+  "description": "A leaflet plugins to transpose Tile layers colors to another",  
+  "main": "dist/leaflet-transpose-colors.js",
+  "license": "MIT"
+  "ignore": [
+    "src",
+    ".gitignore",
+    "bower.json",
+    "README.md"
+  ]
+}
+
+
+
